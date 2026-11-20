@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "replate-server",
   "version": "1.0.0",
-  "description": "RePlate Backend API - Food-surplus management and recovery platform",
+  "description": "Annapravah Backend API - Food-surplus management and recovery platform",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {
@@ -9,7 +9,7 @@
     "dev": "nodemon server.js"
   },
   "keywords": [
-    "replate",
+    "annapravah",
     "express",
     "mongoose",
     "food-surplus"

@@ -204,7 +204,7 @@ const SignupPage = () => {
       <Card variant="default" className="shadow-soft-xl border-charcoal-200 hover-3d-mild">
         <Card.Header className="text-center">
           <Card.Title className="text-2xl sm:text-3xl font-extrabold text-charcoal-900 tracking-tight">
-            Join RePlate
+            Join Annapravah
           </Card.Title>
           <Card.Description className="mt-1">
             "Good food deserves another plate."
